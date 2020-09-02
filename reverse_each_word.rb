@@ -3,5 +3,3 @@ def reverse_each_word(sentence)
     string.reverse
   end
 end
-
-def reverse_each_word
